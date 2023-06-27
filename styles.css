@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #686868;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#tudo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 50px;
+    width: 1004px;
+    height: 625px;
+    background-color: #F5F5F5;
+}
+
+#ladodireito{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 45px;
+    
+}
+
+#fotinha{
+    width: 700px;
+    height: 625px;
+
+   
+}
+
+#content{
+    width: 398px;
+    height: 369px;
+    background-color: #F5F5F5;
+
+    
+}
+h1{
+    font-size: 32px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin-top: 20px;
+}
+h2{
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: #2B2B2B;
+    font-size: 13px;
+    margin-top: 40px;
+}
+button{
+    background-color: #C70000;
+    color: #ffff;
+
+    height: 60px;
+    width: 393px;
+    border-radius: 10px;
+    margin-top: 40px;
+
+}
+p{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 13px;
+    color: #2B2B2B;
+    margin-top: 20px;
+}
+input{
+    width: 398px;
+    height: 49px;
+    background-color: #ffff;
+    color: #737373;
+    border-radius: 10px;
+    border: 1px solid #737373;
+
+}
